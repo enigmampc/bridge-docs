@@ -22,8 +22,8 @@ Each component in the system can be replaced by a custom implementation – we l
 ## Architecture
 
 The core components of the bridge are:
-1.	Bridge oracles
-2.	Bridge contracts
-3.	Bridge Database
-4.	Backend services
+1.	Oracles
+2.	Contracts
+3.	Database
+4.	Backend Services
 5.	UI
